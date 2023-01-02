@@ -1,5 +1,7 @@
 const path = require('path');
 
+// options
+
 module.exports = {
   mode: 'development',
   stats: 'errors-only',
